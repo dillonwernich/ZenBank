@@ -1,0 +1,117 @@
+<resources>
+    <string name="default_web_client_id">471579869733-tv8loqe8vov5u2q5o1nvp8g8ufp7353a.apps.googleusercontent.com</string>
+
+    <string name="app_name">ZenBank</string>
+    <string name="zar">ZAR</string>
+    <string name="eur">EUR</string>
+    <string name="gbp">GBP</string>
+    <string name="cad">CAD</string>
+    <string name="aud">AUD</string>
+    <string name="enter_usd_amount">Voer USD-bedrag in</string>
+    <string name="convert">Skakel om</string>
+    <string name="current_exchange_rates_live">Huidige wisselkoerse (regstreeks)</string>
+    <string name="currency_converter">Valuta-omskakelaar</string>
+    <string name="deposit">Deposito</string>
+    <string name="to_which_account_would_you_like_to_make_a_deposit">Na watter rekening wil jy \'n deposito maak\?</string>
+    <string name="amount">Bedrag</string>
+    <string name="reference">Verwysing</string>
+    <string name="deposit2">Deposito</string>
+    <string name="please_note_that_this_deposit_is_not_real_any_funds_displayed_or_transactions_shown_are_for_demonstration_and_development_purposes_only">Neem asseblief kennis dat hierdie deposito nie werklik is nie. Enige fondse wat vertoon word of transaksies wat gewys word, is slegs vir demonstrasie- en ontwikkelingsdoeleindes.</string>
+    <string name="login">Teken in</string>
+    <string name="email_address">E-posadres</string>
+    <string name="password">Wagwoord</string>
+    <string name="login2">Teken in</string>
+    <string name="please_use_your_login_credentials_google_sso_or_biometrics_to_login_or_register_now">Gebruik asseblief jou aanmeldbewyse, Google SSO of Biometrie om aan te meld of nou te registreer.</string>
+    <string name="register_now">Registreer nou</string>
+    <string name="debit_account">Debietrekening</string>
+    <string name="savings_account">Spaarrekening</string>
+    <string name="balance_r0_00">Saldo R0.00</string>
+    <string name="balance_r0_002">Saldo R0.00</string>
+    <string name="transfer">Oordrag</string>
+    <string name="pay">Betaal</string>
+    <string name="deposit3">Deposito</string>
+    <string name="logout">Teken uit</string>
+    <string name="notifications">Kennisgewings</string>
+    <string name="pay2">Betaal</string>
+    <string name="recipient_details">Ontvanger Besonderhede</string>
+    <string name="their_account_number">Hulle rekeningnommer</string>
+    <string name="your_details">Jou besonderhede</string>
+    <string name="amount2">Bedrag</string>
+    <string name="reference2">Verwysing</string>
+    <string name="pay3">Betaal</string>
+    <string name="please_note_that_this_payment_is_not_real_do_not_use_actual_account_details_any_funds_displayed_or_transactions_shown_are_for_demonstration_and_development_purposes_only">Neem asseblief kennis dat hierdie betaling nie werklik is nie. Moenie werklike rekeningbesonderhede gebruik nie. Enige fondse wat vertoon word of transaksies wat gewys word, is slegs vir demonstrasie- en ontwikkelingsdoeleindes.</string>
+    <string name="register">Registreer</string>
+    <string name="email_address2">E-posadres</string>
+    <string name="password2">Wagwoord</string>
+    <string name="confirm_password">Bevestig wagwoord</string>
+    <string name="id_number">ID-nommer</string>
+    <string name="you_will_receive_a_debit_and_savings_account">Jy sal \'n debiet- en spaarrekening ontvang.</string>
+    <string name="register2">Registreer</string>
+    <string name="register_biometrics">Biometrie registreer\?</string>
+    <string name="settings">Instellings</string>
+    <string name="name_and_surname">Naam en Van</string>
+    <string name="please_enter_your_details_to_update_your_profile">Voer asseblief jou besonderhede in om jou profiel op te dateer.</string>
+    <string name="phone_number">Telefoonnommer</string>
+    <string name="new_password">Nuwe wagwoord</string>
+    <string name="biometric_login">Biometriese aanmelding</string>
+    <string name="update">Dateer op</string>
+    <string name="edit_profile">Wysig profiel</string>
+    <string name="id_number2">ID-nommer</string>
+    <string name="this_digital_banking_app_is_for_development_purposes_only">Hierdie digitale banktoepassing is slegs vir ontwikkelingsdoeleindes.</string>
+    <string name="transfer2">Oordrag</string>
+    <string name="from">Van</string>
+    <string name="to">Om</string>
+    <string name="amount3">Bedrag</string>
+    <string name="reference3">Verwysing</string>
+    <string name="transfer3">Oordrag</string>
+    <string name="please_note_that_this_transfer_is_not_real_any_funds_displayed_or_transactions_shown_are_for_demonstration_and_development_purposes_only">Neem asseblief kennis dat hierdie oordrag nie werklik is nie. Enige fondse wat vertoon word of transaksies wat gewys word, is slegs vir demonstrasie- en ontwikkelingsdoeleindes.</string>
+    <string name="register_login_with_google_sso_now_or_biometric_login">Registreer/Teken nou aan met Google SSO of Teken in met Biometrie!</string>
+    <string name="login_with_biometrics">Teken in met biometrie</string>
+    <string name="about_us">Oor ons</string>
+    <string name="display_about_us_page">Wys Oor Ons-bladsy</string>
+    <string name="view_account_balances_offline">Bekyk rekeningsaldo\'s vanlyn\?</string>
+    <string name="offline_balances">Vanlyn saldo\'s</string>
+    <string name="delete_your_account">Vee jou rekening uit\?</string>
+    <string name="biometric_login2">Biometriese aanmelding\?</string>
+    <string-array name="languages">
+        <item>Engels</item>
+        <item>Afrikaans</item>
+    </string-array>
+
+    <string-array name="main_screen_nav">
+        <item>Dashboard</item>
+        <item>Instellings</item>
+        <item>Kennisgewings</item>
+        <item>Valuta-omskakelings</item>
+        <item>Oor ons</item>
+    </string-array>
+
+    <string-array name="deposit">
+        <item>Debietrekening</item>
+        <item>Spaarrekening</item>
+    </string-array>
+
+    <string-array name="transferFrom">
+        <item>Debietrekening</item>
+        <item>Spaarrekening</item>
+    </string-array>
+
+    <string-array name="transferTo">
+        <item>Debietrekening</item>
+        <item>Spaarrekening</item>
+    </string-array>
+
+    <string-array name="recipientBank">
+        <item>Eerste Nasionale Bank</item>
+        <item>ABSA Bank</item>
+        <item>NedBank</item>
+        <item>Standard Bank</item>
+        <item>Investec</item>
+        <item>Capitec</item>
+    </string-array>
+
+    <string-array name="payAccount">
+        <item>Debietrekening</item>
+        <item>Spaarrekening</item>
+    </string-array>
+</resources>

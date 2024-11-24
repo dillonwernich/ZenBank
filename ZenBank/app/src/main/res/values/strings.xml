@@ -1,0 +1,117 @@
+<resources>
+    <string name="default_web_client_id">471579869733-tv8loqe8vov5u2q5o1nvp8g8ufp7353a.apps.googleusercontent.com</string>
+
+    <string name="app_name">ZenBank</string>
+    <string name="zar">ZAR</string>
+    <string name="eur">EUR</string>
+    <string name="gbp">GBP</string>
+    <string name="cad">CAD</string>
+    <string name="aud">AUD</string>
+    <string name="enter_usd_amount">Enter USD Amount</string>
+    <string name="convert">Convert</string>
+    <string name="current_exchange_rates_live">Current Exchange Rates (Live)</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="deposit">Deposit</string>
+    <string name="to_which_account_would_you_like_to_make_a_deposit">To which account would you like to make a deposit?</string>
+    <string name="amount">Amount</string>
+    <string name="reference">Reference</string>
+    <string name="deposit2">Deposit</string>
+    <string name="please_note_that_this_deposit_is_not_real_any_funds_displayed_or_transactions_shown_are_for_demonstration_and_development_purposes_only">Please note that this deposit is not real. Any funds displayed or transactions shown are for demonstration and development purposes only.</string>
+    <string name="login">Login</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="login2">Login</string>
+    <string name="please_use_your_login_credentials_google_sso_or_biometrics_to_login_or_register_now">Please use your Login Credentials, Google SSO, or Biometrics to login or Register Now.</string>
+    <string name="register_now">Register Now</string>
+    <string name="debit_account">Debit Account</string>
+    <string name="savings_account">Savings Account</string>
+    <string name="balance_r0_00">Balance R0.00</string>
+    <string name="balance_r0_002">Balance R0.00</string>
+    <string name="transfer">Transfer</string>
+    <string name="pay">Pay</string>
+    <string name="deposit3">Deposit</string>
+    <string name="logout">Logout</string>
+    <string name="notifications">Notifications</string>
+    <string name="pay2">Pay</string>
+    <string name="recipient_details">Recipient Details</string>
+    <string name="their_account_number">Their Account Number</string>
+    <string name="your_details">Your Details</string>
+    <string name="amount2">Amount</string>
+    <string name="reference2">Reference</string>
+    <string name="pay3">Pay</string>
+    <string name="please_note_that_this_payment_is_not_real_do_not_use_actual_account_details_any_funds_displayed_or_transactions_shown_are_for_demonstration_and_development_purposes_only">Please note that this payment is not real. Do not use actual account details. Any funds displayed or transactions shown are for demonstration and development purposes only.</string>
+    <string name="register">Register</string>
+    <string name="email_address2">Email Address</string>
+    <string name="password2">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="id_number">ID Number</string>
+    <string name="you_will_receive_a_debit_and_savings_account">You will receive a debit and savings account.</string>
+    <string name="register2">Register</string>
+    <string name="register_biometrics">Register Biometrics?</string>
+    <string name="settings">Settings</string>
+    <string name="name_and_surname">Name and Surname</string>
+    <string name="please_enter_your_details_to_update_your_profile">Please enter your details to update your profile.</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="new_password">New Password</string>
+    <string name="biometric_login">Biometric Login</string>
+    <string name="update">Update</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="id_number2">ID Number</string>
+    <string name="this_digital_banking_app_is_for_development_purposes_only">This digital banking app is for development purposes only.</string>
+    <string name="transfer2">Transfer</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="amount3">Amount</string>
+    <string name="reference3">Reference</string>
+    <string name="transfer3">Transfer</string>
+    <string name="please_note_that_this_transfer_is_not_real_any_funds_displayed_or_transactions_shown_are_for_demonstration_and_development_purposes_only">Please note that this transfer is not real. Any funds displayed or transactions shown are for demonstration and development purposes only.</string>
+    <string name="register_login_with_google_sso_now_or_biometric_login">Register/Login with google SSO now or Login with Biometrics!</string>
+    <string name="login_with_biometrics">Login With Biometrics</string>
+    <string name="about_us">About Us</string>
+    <string name="display_about_us_page">Display About Us Page</string>
+    <string name="view_account_balances_offline">View Account Balances Offline?</string>
+    <string name="offline_balances">Offline Balances</string>
+    <string name="delete_your_account">Delete your account?</string>
+    <string name="biometric_login2">Biometric Login?</string>
+    <string-array name="languages">
+        <item>English</item>
+        <item>Afrikaans</item>
+    </string-array>
+
+    <string-array name="main_screen_nav">
+        <item>Dashboard</item>
+        <item>Settings</item>
+        <item>Notifications</item>
+        <item>Currency Conversions</item>
+        <item>About Us</item>
+    </string-array>
+
+    <string-array name="deposit">
+        <item>Debit Account</item>
+        <item>Savings Account</item>
+    </string-array>
+
+    <string-array name="transferFrom">
+        <item>Debit Account</item>
+        <item>Savings Account</item>
+    </string-array>
+
+    <string-array name="transferTo">
+        <item>Debit Account</item>
+        <item>Savings Account</item>
+    </string-array>
+
+    <string-array name="recipientBank">
+        <item>First National Bank</item>
+        <item>ABSA Bank</item>
+        <item>NedBank</item>
+        <item>Standard Bank</item>
+        <item>Investec</item>
+        <item>Capitec</item>
+    </string-array>
+
+    <string-array name="payAccount">
+        <item>Debit Account</item>
+        <item>Savings Account</item>
+    </string-array>
+</resources>
